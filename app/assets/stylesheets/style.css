@@ -1,0 +1,22 @@
+#wrapper
+{
+margin:auto;
+padding: 0px;
+margin-top: 00px;
+width: 900px;
+height: 700px;
+border:thin ridge black;
+}
+.header
+{
+margin-top:-22px;
+width: 900px;
+height: 300px;
+background-color: blue;
+border-bottom: thin ridge black;
+}
+#container
+{
+background-color: blue;
+
+}
